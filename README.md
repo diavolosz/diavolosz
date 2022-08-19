@@ -3,7 +3,7 @@
 ![alt text](./img/BANNER.jpg)
 
 
-# About Me [<img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/hienthong-leduong/) [<img alt="Email" height="24px" width="auto" src="./img/email.png" />](mailto:htleduong529@gmail.com) [<img alt="Resume" height="24px" width="auto" src="./img/resumeicon.png" />](https://resume.creddle.io/resume/c61f41ah7ax)
+# About Me [<img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/hienthong-leduong/) [<img alt="Email" height="24px" width="auto" src="./img/email.png" />](mailto:htleduong529@gmail.com)
 
 ### I am a full-stack web developer in Toronto, ON
 
@@ -45,11 +45,7 @@
 
 <br>
 
-<p align='center'>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
 
 # Connect With Me ! 
 - I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
