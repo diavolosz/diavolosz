@@ -3,7 +3,7 @@
 ![alt text](./img/BANNER.jpg)
 
 
-# About Me [<img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/hienthong-leduong/) [<img alt="Email" height="24px" width="auto" src="./img/email.png" />](mailto:htleduong529@gmail.com)
+# About Me [<img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/hienthong-leduong/) [<img alt="Email" height="24px" width="auto" src="./img/email.png" />](mailto:htleduong529@gmail.com) [<img alt="Resume" height="24px" width="auto" src="./img/resumeicon.png" />](https://resume.creddle.io/resume/c61f41ah7ax)
 
 ### I am a full-stack web developer in Toronto, ON
 
