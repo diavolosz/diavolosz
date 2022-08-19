@@ -9,7 +9,6 @@
 
 #### with a background in quality assurance and quality control. I love being innovative and have the ability in designing user interfaces, testing codes and constructing databases and servers to develop intriguing and user-friendly web application. My passion have led me to completed my Fullstack Web Development Diploma through Lighthouse Labs. I love creating projects that require extensive research analysis with contents that intersect between field of science and programming.
 
-<br>
 
 # Languages and Tools
 <p> 
@@ -46,7 +45,11 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz)](https://github.com/anuraghazra/github-readme-stats)
+<span style=" display:flex; justify-content:center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>
 
 # Connect With Me ! 
 - I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
