@@ -7,7 +7,7 @@
 
 ### I am a full-stack web developer in Toronto, ON
 
-### with a background in quality assurance and quality control. I love being innovative and have the ability in designing user interfaces, testing codes and constructing databases and servers to develop intriguing and user-friendly web application. My passion have led me to completed my Fullstack Web Development Diploma through Lighthouse Labs. I love creating projects that require extensive research analysis with contents that intersect between field of science and programming.
+### In additonal to a background in quality assurance and quality control, I love being innovative and have the ability in designing user interfaces, testing codes and constructing databases and servers to develop intriguing and user-friendly web application. My passion have led me to completed my Fullstack Web Development Diploma through Lighthouse Labs. I love creating projects that require extensive research analysis with contents that intersect between field of science and programming.
 
 
 # Languages and Tools
