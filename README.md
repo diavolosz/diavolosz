@@ -5,7 +5,7 @@
 
 # About Me [<img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/hienthong-leduong/) [<img alt="Email" height="24px" width="auto" src="./img/email.png" />](mailto:htleduong529@gmail.com)
 
-<h2> I am a full-stack web developer in Toronto, ON </h2>
+### I am a full-stack web developer in Toronto, ON
 
 #### with a background in quality assurance and quality control. I love being innovative and have the ability in designing user interfaces, testing codes and constructing databases and servers to develop intriguing and user-friendly web application. My passion have led me to completed my Fullstack Web Development Diploma through Lighthouse Labs. I love creating projects that require extensive research analysis with contents that intersect between field of science and programming.
 
