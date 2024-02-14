@@ -50,4 +50,4 @@
 - I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
 - Learning advanced Javascript and React concepts. On my journey to master different kind of Data Structure and Algorithm.
 - Personality: A solid [ISTJ - T](https://www.16personalities.com/istj-personality)
-- Fun facts: I was a biochemistry student who worked part-time as a music editor and now code for a living :D
+- Fun facts: I was a biochemistry student and now code for a living :D
