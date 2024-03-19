@@ -45,6 +45,11 @@
 
 <br>
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=diavolosz&theme=rose&langs_count=8&layout=compact&line_height=5"
+    height="150"
+  />
+
 
 # Connect With Me ! 
 - I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
