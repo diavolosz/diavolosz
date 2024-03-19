@@ -45,8 +45,7 @@
 
 <br>
 
-[![Diavolosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz)](https://github.com/anuraghazra/github-readme-stats)
-[![Diavolosz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diavolosz)](https://github.com/anuraghazra/github-readme-stats)
+[![Diavolosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz)]
 
 # Connect With Me ! 
 - I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
