@@ -45,10 +45,8 @@
 
 <br>
 
-[![Diavolosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diavolosz)]
-
 # Connect With Me ! 
-- I am constanly learn and trying out new projects ! Currently I am working on a QR code business card generating platform !
+- I am constanly learn and trying out new projects ! Currently I am working on different projects that has a strong focus in marketing and user experience !
 - Learning advanced Javascript and React concepts. On my journey to master different kind of Data Structure and Algorithm.
 - Personality: A solid [ISTJ - T](https://www.16personalities.com/istj-personality)
 - Fun facts: I was a biochemistry student and now code for a living :D
